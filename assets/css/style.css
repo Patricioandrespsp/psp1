@@ -1,0 +1,66 @@
+* {
+
+    font-family: "Raleway", sans-serif;
+    padding: 0px;
+
+}
+
+
+.hero {
+
+background-image: url(../img/bg-hero.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position:left ;
+}
+
+
+.trabajo {
+
+    background-color: #17A2B8;
+    text-align: center;
+    font-size: 16px;
+}
+
+.card-title {
+    font-size: 26px;
+}
+
+
+.container-trabajos {
+
+    background-color: #17A2B8;
+}
+
+
+.card img{
+
+height: 231px;
+width: 386px;
+
+}
+
+
+
+footer {
+
+background-color: black;
+color: white;
+text-align: center;
+font-size: 16px;
+height: 74px;
+padding: 20px;
+}
+
+
+
+.textocontacto {
+
+width: 932px;
+height: 59px;
+font-size: 16px;
+text-align: center;
+
+
+
+}
